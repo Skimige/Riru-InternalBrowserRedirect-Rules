@@ -40,7 +40,7 @@ Riru - InternalBrowserRedirect 的 策略组
 ```
 
 * `packages` - 策略组合集
-* `packageName` - 在 `rules` 目录中的 策略组 的 **目标包名 **
+* `packageName` - 在 `rules` 目录中的 策略组 的 **目标包名**
 * `version` - 在 `rules` 目录中的 策略组 的 **版本**
 
 
