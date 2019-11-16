@@ -1,5 +1,5 @@
 {
-    "tag": "QQ",
+    "tag": "QQLite",
     "authors": "Kr328",
     "rules": [
         {
@@ -7,7 +7,7 @@
             "url-source": "intent://extra/url",
             "url-filter": {
                 "ignore": ".*qq\\.com/.*",
-                "force": "(http|https):\\\/\/(.*weixin\\.qq\\.com)\\/.*"
+                "force": ""
             }
         }
     ]
