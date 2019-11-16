@@ -23,6 +23,10 @@
 		{
             "packageName": "com.tencent.androidqqmail",
             "version": 1
+    }
+    {
+            "packageName": "com.tencent.qqlite",
+            "version": 2
 		}
 	]
 }
