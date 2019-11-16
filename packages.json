@@ -1,12 +1,12 @@
 {
 	"packages": [
 		{
-			"packageName": "com.tencent.tim",
-			"version": 2
+            "packageName": "com.tencent.tim",
+            "version": 2
 		},
 		{
-			"packageName": "com.tencent.mm",
-			"version": 1
+            "packageName": "com.tencent.mm",
+            "version": 1
 		},
 		{
             "packageName": "tv.danmaku.bili",
@@ -23,7 +23,7 @@
 		{
             "packageName": "com.tencent.androidqqmail",
             "version": 1
-    }
+    },
     {
             "packageName": "com.tencent.qqlite",
             "version": 2
